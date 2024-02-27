@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int fatorial(int x)
+double fatorial(int x)
 {
     double f = 1;
     double z = x + 1;
