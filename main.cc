@@ -2,7 +2,7 @@
 
 using namespace std;
 
-double fatorial(int x)
+double factorial(int x)
 {
     double f = 1;
     double z = x + 1;
@@ -18,7 +18,7 @@ int main()
 {
     double y;
     cin >> y;
-    cout << fatorial(y);
+    cout << factorial(y);
 
     return 0;
 }
